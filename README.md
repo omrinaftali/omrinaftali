@@ -9,10 +9,10 @@
 
 ## 💼 Notable Projects
 
-- 🎟️ **SmartTicket** – Ticket management system using Node.js, MongoDB, and vanilla JS  
-- 📊 **Insightify** – Python-based data analysis and visualization project using Pandas and Matplotlib  
-- 🗳️ **Democracy Forecasting** – Predictive analysis of global democracy index based on economic indicators  
-- 📱 **Drive Your Change** – Gamified mobile concept promoting responsible driving behavior
+- 🎟️ **SmartTicket** – Ticket management system using Node.js, MongoDB, and vanilla JS.
+- 📊 **Insightify** – Python-based data analysis and visualization project using Pandas and Matplotlib.
+- 🗳️ **Democracy Forecasting** – Predictive analysis of global democracy index based on economic indicators.
+- 📱 **Drive Your Change** – Gamified mobile concept promoting responsible driving behavior.
 
 ---
 
