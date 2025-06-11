@@ -34,7 +34,7 @@
 ## 📫 Contact
 - 📧 Email: omrinaftali@gmail.com  
 - 📱 Phone: 0547777442  
-- 🌐 LinkedIn: (https://linkedin.com/in/omrinaftali)
+- 🌐 LinkedIn: 🌐 [LinkedIn Profile](https://linkedin.com/in/omrinaftali)
 
 ---
 
