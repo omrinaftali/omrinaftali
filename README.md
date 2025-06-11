@@ -13,6 +13,7 @@
 - 📊 [Insightify](https://github.com/omrinaftali/Insightify) – Python-based data analysis and visualization project using Pandas and Matplotlib.
 - 🗳️ [Democracy Forecasting](https://github.com/omrinaftali/Democracy-Forecast) – Predictive analysis of global democracy index based on economic indicators.
 - 📱 [Drive Your Change](https://github.com/omrinaftali/DriveYourChangeApp) – Gamified mobile concept promoting responsible driving behavior.
+- 📝 [Insert Student List](https://github.com/omrinaftali/InsertStudntList-HTML) – HTML form with JS that inserts students into a backend database.
 
 ---
 
