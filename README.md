@@ -11,7 +11,7 @@
 
 - 🎟️ [SmartTicket](https://github.com/omrinaftali/SmartTicket) – Ticket management system using Node.js, MongoDB, and vanilla JS.
 - 📊 [Insightify](https://github.com/omrinaftali/Insightify) – Python-based data analysis and visualization project using Pandas and Matplotlib.
-- 🗳️ [Democracy Forecasting](https://github.com/omrinaftali/Democracy-Forecasting) – Predictive analysis of global democracy index based on economic indicators.
+- 🗳️ [Democracy Forecasting](https://github.com/omrinaftali/Democracy-Forecast) – Predictive analysis of global democracy index based on economic indicators.
 - 📱 [Drive Your Change](https://github.com/omrinaftali/DriveYourChangeApp) – Gamified mobile concept promoting responsible driving behavior.
 
 ---
