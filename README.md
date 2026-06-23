@@ -90,7 +90,8 @@ Pandas • Scikit-learn • Matplotlib • Machine Learning • AI Integrations
 
 ## 📫 Contact
 
-📧 **Email:** omrinaftali@gmail.com
+📧 **Email:** 
+omrinaftali@gmail.com
 
 💼 **LinkedIn:**  
 https://linkedin.com/in/omrinaftali
