@@ -11,12 +11,13 @@ Skilled in Full Stack Development, Python, Android Studio, DevOps & Data Analysi
 
 ## My Projects
 
-- 🎟️ [SmartTicket](https://github.com/omrinaftali/SmartTicket) – Ticket management system using Node.js, MongoDB, and vanilla JS.
-- 📊 [Insightify](https://github.com/omrinaftali/Insightify) – Python-based data analysis and visualization project using Pandas and Matplotlib.
-- 🗳️ [Democracy Forecasting](https://github.com/omrinaftali/Democracy-Forecast) – Predictive analysis of global democracy index based on economic indicators.
-- 📱 [Drive Your Change](https://github.com/omrinaftali/DriveYourChangeApp) – Gamified mobile concept promoting responsible driving behavior.
-- 📝 [Insert Student List](https://github.com/omrinaftali/InsertStudntList-HTML) – HTML form with JS that inserts students into a backend database.
-
+-  [SmartTicket](https://github.com/omrinaftali/SmartTicket) – Ticket management system using Node.js, MongoDB, and vanilla JS.
+-  [Insightify](https://github.com/omrinaftali/Insightify) – Python-based data analysis and visualization project using Pandas and Matplotlib.
+-  [Democracy Forecasting](https://github.com/omrinaftali/Democracy-Forecast) – Predictive analysis of global democracy index based on economic indicators.
+-  [Drive Your Change](https://github.com/omrinaftali/DriveYourChangeApp) – Gamified mobile concept promoting responsible driving behavior.
+-  [Insert Student List](https://github.com/omrinaftali/InsertStudntList-HTML) – HTML form with JS that inserts students into a backend database.
+-  [mysql-kafka-cdc-pipeline](https://github.com/omrinaftali/mysql-kafka-cdc-pipeline)) – A containerized full-stack app with real-time CDC monitoring using MySQL, Debezium, and Kafka.
+-  [GitHub Profile AI Reviewer](https://github.com/omrinaftali/github-profile-reviewer) – A Full-Stack AI-powered platform that analyzes, summarizes, and evaluates the complexity of a user's GitHub repositories.
 ---
 
 ## Technical Skills
